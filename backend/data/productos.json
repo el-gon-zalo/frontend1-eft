@@ -1,0 +1,45 @@
+[
+
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "description": "Elden Ring es un aclamado videojuego de rol y acción en mundo abierto desarrollado por FromSoftware y publicado por Bandai Namco Entertainment.",
+    "price": "$30000",
+    "image": "https://i.blogs.es/c0b150/1024_2000/840_560.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "The Witcher 3: Wild Hunt es un aclamado videojuego de rol (RPG) de acción en tercera persona desarrollado por CD Projekt RED.",
+    "price": "$10000",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1412/5YlA3POEEpaAJsUq3eg6U8d6.png"
+  },
+  {
+    "id": 3,
+    "title": "Call of Duty: Black Ops 7",
+    "description": "Call of Duty: Black Ops 7 es un videojuego de disparos en primera persona desarrollado por Treyarch y Raven Software y publicado por Activision, ambientado en el año 2035.",
+    "price": "$20000",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/0d573ddff80c5ff89bd63651313b74147e110fb62936e452.png"
+  },
+  {
+    "id": 4,
+    "title": "EA SPORTS FC 27",
+    "description": "EA SPORTS FC 27 es un videojuego de simulación de fútbol desarrollado por EA Vancouver y EA Romania, y publicado por Electronic Arts, cuyo lanzamiento mundial está programado para el 25 de septiembre de 2026.",
+    "price": "$40000",
+    "image": "https://www.latercera.com/resizer/v2/Y6IXK2RVXVGRJA6DBIJUJJB37E.jpeg?auth=062b113f9917e0fa4acafe82a67e730f8877a69586444b5c64546bde64f522d9&smart=true&width=800&height=450&quality=70"
+  },
+  {
+    "id": 5,
+    "title": "Valheim",
+    "description": "Valheim es un videojuego de supervivencia, exploración y mundo abierto cooperativo para entre 1 y 10 jugadores, ambientado en un vasto purgatorio generado por procedimientos e inspirado en la mitología nórdica.",
+    "price": "$7000",
+    "image": "https://store-images.s-microsoft.com/image/apps.18542.13571084888216164.64efec07-99a1-43e6-9f9f-994d4517a3a8.f7b6b5f5-12b9-45ee-94de-f768e09e9fce"
+  },
+  {
+    "id": 6,
+    "title": "Minecraft",
+    "description": "Minecraft es un videojuego de mundo abierto tipo sandbox (o de mundo de bloques) donde puedes explorar, construir y sobrevivir en un entorno tridimensional hecho completamente de cubos.",
+    "price": "$12000",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png"
+  }
+]

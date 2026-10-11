@@ -1,0 +1,20 @@
+.barracustom {
+    background-color: rgb(158, 76, 185);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  border-radius: 30%;
+}
+
+.rounded-img {
+  border-radius: 30%;
+}
+
+#lead_info {
+    color: rgba(255, 255, 255, 0.9);
+}
